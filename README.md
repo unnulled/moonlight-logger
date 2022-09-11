@@ -4,6 +4,8 @@
   <br>
 </h1>
 
+![image](https://user-images.githubusercontent.com/113278474/189546329-b86da169-bc31-4146-ac6d-311ec824bb7e.png)
+
 ---
 
 ## What is Moonlight Logger?

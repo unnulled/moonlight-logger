@@ -24,6 +24,9 @@ and credit cards. The data will be sent to your Discord webhook.
 - Steal chrome cookies
 - Steal chrome credit cards
 
+![image](https://user-images.githubusercontent.com/113278474/189518022-d5621213-117d-4cee-af27-a55e596509de.png)
+![Capture](https://user-images.githubusercontent.com/113278474/189518024-456eda30-c558-4bec-8eb2-fef0b7e845c4.PNG)
+
 ## Disclaimer
 
 Moonlight Logger was made for educational purposes only. I am not responsible for the misuse of Moonlight Logger. **Do not use this software for malicious purposes! 😉**

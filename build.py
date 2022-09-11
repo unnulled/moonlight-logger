@@ -15,7 +15,7 @@ class Builder:
 ██║╚██╔╝██║██║   ██║██║   ██║██║╚██╗██║██║     ██║██║   ██║██╔══██║   ██║   
 ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗██║╚██████╔╝██║  ██║   ██║   
 ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-Moonlight V1 | Github URL: https://github.com/nickdev2/moonlight-logger\n""".replace("█", f"{Fore.WHITE}█{Fore.MAGENTA}"))
+Moonlight V1 | Github URL: https://github.com/unnulled/moonlight-logger\n""".replace("█", f"{Fore.WHITE}█{Fore.MAGENTA}"))
 
     def buildSequence(self) -> None:
         system("cls")
